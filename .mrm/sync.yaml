@@ -1,6 +1,6 @@
-project_id: 50e48fe1-6ff0-4a15-a1c7-01a562ccd211
-link_id: 2171686d-3a4a-4023-9ea4-00942f44868e
-device_id: e5b24eed-6d23-48ac-9a19-540216a5697f
+project_id: a8ae7aa3-9760-4e07-8bdc-fe3964ece647
+link_id: 999ff8cd-65d5-42bd-a214-236bd7e81154
+device_id: d65c2015-c579-4b29-ac70-344e95946315
 server_url: http://localhost:8000
 mappings:
   - local: "**/*.ipynb"
@@ -22,4 +22,3 @@ exclude:
   - "**/*~"
   - "**/*.tmp"
   - "**/.autosave/**"
-refresh_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0NTE4NTNmMC1jODFjLTRkOWUtYWIyOC0wN2NmMDliMTBjNDgiLCJkZXZpY2VJZCI6ImU1YjI0ZWVkLTZkMjMtNDhhYy05YTE5LTU0MDIxNmE1Njk3ZiIsInRva2VuVHlwZSI6ImRldmljZV9yZWZyZXNoIiwiaWF0IjoxNzc5Mjg3NTY0LCJleHAiOjE3ODE4Nzk1NjQsImp0aSI6Ijc1NjJlNjlkLTI4MzQtNDZkNi1hMTIzLTY3ODdjZGE3ZDY5OSJ9.TQV4Zhinyq1YOCSbtOOl8-3ORLbl3lG6QtpcuCu2NBI"
